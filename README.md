@@ -1,3 +1,4 @@
+```Javascript
 var anewplus = 
  [
 	"Name: Ngô Vi Minh Hiếu",
@@ -6,3 +7,4 @@ var anewplus =
 	"Address: Ha Noi, Viet Nam",
 	"Skills: HTML, CSS, JS"
  ];
+```
